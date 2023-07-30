@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 fastapi = "*"
 uvicorn = "*"
+pandas = "*"
+scikit-learn = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 
