@@ -9,6 +9,7 @@ uvicorn = "*"
 pandas = "*"
 scikit-learn = "*"
 sentence-transformers = "*"
+starlette-context = "*"
 
 [dev-packages]
 
